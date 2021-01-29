@@ -1,4 +1,4 @@
-# hy-vue-temp
+# gs-vuecli
 
 ## Project setup
 
